@@ -1,3 +1,9 @@
+## Live Demo
+
+Check out the live demo of the Expense Tracker app here:  https://sangardev.github.io/expense-tracker
+
+[💻 View Live Demo](https://sangardev.github.io/expense-tracker/)
+
 # Expense Tracker
 
 A modern and responsive **Expense Tracker** built with **React** and **Vite**, using **plain CSS**.  
